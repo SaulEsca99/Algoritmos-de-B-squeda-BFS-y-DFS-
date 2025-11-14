@@ -16,6 +16,7 @@ El programa tiene dos salidas visuales principales:
 **1. La Simulación en Pygame (en vivo):**
 ![Simulación del agente en Pygame](simulacion.png)
 
+
 **2. El Árbol de Búsqueda Generado (al final):**
 *(Esta es la imagen que proporcionaste, `arbol_busqueda.png`)*
 ![Árbol de Búsqueda generado por NetworkX](arbol_busqueda.png)
