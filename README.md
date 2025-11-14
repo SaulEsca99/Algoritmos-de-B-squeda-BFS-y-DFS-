@@ -14,7 +14,6 @@ El programa hace dos cosas:
 El programa tiene dos salidas visuales principales:
 
 **1. La Simulación en Pygame (en vivo):**
-*(Recomiendo tomar un screenshot de tu simulación y ponerla aquí como `simulacion.png`)*
 ![Simulación del agente en Pygame](simulacion.png)
 
 **2. El Árbol de Búsqueda Generado (al final):**
